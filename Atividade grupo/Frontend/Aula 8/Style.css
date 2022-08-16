@@ -1,0 +1,53 @@
+* {
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+    font-family: 'Amatic SC', cursive
+}
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC&display=swap');
+
+body {
+    background-color: #131313;
+}
+h1 {
+    color: white;
+    margin-bottom: 11px;
+}  
+
+.media-picture {
+    height: 400px;
+    background-image: url('https://evedonusfilm.com/wp-content/uploads/2021/10/1824422_202105285015-1.jpg');
+    background-size: cover;
+    background-position: up;
+    background-repeat: left;
+    margin-bottom: 15px
+}
+
+.review-score {
+    margin-bottom: 32px;
+    color: white;
+    background-color: #e6bd09;
+    padding: 7px;
+
+}
+h2{
+    color: steelblue;
+    margin-bottom: 11px;
+}
+p {
+    color: #bdbdbd;
+    margin-bottom: 11px;
+}
+p {
+    font-family: 'Amatic SC', cursive;
+    margin-bottom: 11px;
+}
+a {
+ color: yellow;
+ margin-bottom: 80px;
+
+}
+
+
+
